@@ -1,2 +1,2 @@
 
-A core server.
+This is MyCoreServer.

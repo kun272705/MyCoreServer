@@ -1,6 +1,6 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.kun272705.coreserver</groupId>
-  <artifactId>coreserver</artifactId>
+  <groupId>com.mycompany.mycoreserver</groupId>
+  <artifactId>mycoreserver</artifactId>
   <version>1.0.0</version>
 </project>
